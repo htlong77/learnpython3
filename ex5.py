@@ -1,4 +1,4 @@
-my_name = 'Ha Thuy Long'
+my_name = 'Hà Thụy Long'
 my_age = 43
 my_height = 162
 my_weight = 72
@@ -7,6 +7,7 @@ my_teeth = 'Black'
 my_hair = 'White'
 
 print(f"Let's talk about {my_name}.") #Does not work under python3.5
+print(f"Hãy nói về {my_name}.") #Does not work under python3.5
 print(f"He's {my_height} centimeters tall.")
 print(f"He's {my_weight} kilograms heavy.")
 print("Actually that's not too heavy.")
