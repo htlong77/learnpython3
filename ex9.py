@@ -12,3 +12,7 @@ With the three double-quotes.
 We'll be able to type as much as we like.
 Even 4 lines if we want, or 5, or 6.
 """)
+print('''
+Is it still OK with the three single-quote?
+It seems to be OK!!!
+''')
