@@ -1,0 +1,7 @@
+#ignore backup files
+*~
+#txt files
+*.txt
+token*
+home.jpg
+work.png
