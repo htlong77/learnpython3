@@ -29,5 +29,11 @@ target.write("\n")
 target.write(line3)
 target.write("\n")
 
-print("And finally, we closee it.")
+target.write(f"""
+{line1}
+{line2}
+{line3}
+""")
+
+print("And finally, we close it.")
 target.close()
