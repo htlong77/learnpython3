@@ -5,3 +5,5 @@
 token*
 home.jpg
 work.png
+# some exceptions for data file
+!ex*.txt
