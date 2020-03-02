@@ -21,4 +21,8 @@ out_file.write(indata)
 print("Alright, all done.")
 
 out_file.close()
+
+out_file = open("tmp.txt", 'w')
+out_file.write(indata)
+out_file.close()
 in_file.close()
