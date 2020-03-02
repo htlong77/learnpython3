@@ -3,7 +3,7 @@ from os.path import exists
 
 script, from_file, to_file = argv
 
-printf(f"Copying from {from_file}  to {to_file}")
+print(f"Copying from {from_file}  to {to_file}")
 
 # we could do these two on onne line, how?
 in_file = open(from_file)
